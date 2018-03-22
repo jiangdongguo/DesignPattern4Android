@@ -1,4 +1,4 @@
-package com.jiangdg.strategy;
+package com.jiangdg.stragety;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.jiangdg.strategy", appContext.getPackageName());
+        assertEquals("com.jiangdg.stragety", appContext.getPackageName());
     }
 }

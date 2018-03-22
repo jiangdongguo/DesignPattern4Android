@@ -1,4 +1,4 @@
-package com.jiangdg.strategy;
+package com.jiangdg.stragety;
 
 import org.junit.Test;
 
